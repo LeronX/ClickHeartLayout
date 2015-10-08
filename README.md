@@ -1,5 +1,5 @@
 # ClickHeartLayout
-17 & periscope like heartlayout  
+heartLayout Effects like 17 & periscope Effects  
 Change from  [HeartLayout](https://github.com/tyrantgit/HeartLayout) 
   
   
